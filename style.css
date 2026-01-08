@@ -315,6 +315,7 @@ span::before{
     }
     .butt {
         margin-top:30px;
+        margin-right:20px;
     }
     .images{
     height:50%;
